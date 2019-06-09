@@ -38,3 +38,21 @@ Visualization Goals:
 • Use color for categories, not rank
 • Encode other data and relationships with appropriate properties • Iterate, iterate, iterate
 
+## Visualization types
+
+### nD/Multidimensional
+• pie chart
+• bar chart, radial bar chart
+• histogram
+• scatter plot
+• line chart
+• bubble chart
+• heat map
+• pair plots
+• Worlde, tag cloud
+• tree map
+• step chart
+• box plot and whisker plot
+• parallel coordinates / parallel assets
+
+
