@@ -31,28 +31,28 @@ Visualization Goals:
         4. relational (hierarchy, influence, etc.) 4.5. location (... it’s complicated...)
 
 ## Design Strategies
-• Limit the data & detail you include
-• Use position for your most important relationship(s)
-• Try different axes
-• Consider default formats
-• Use color for categories, not rank
-• Encode other data and relationships with appropriate properties • Iterate, iterate, iterate
+- Limit the data & detail you include
+- Use position for your most important relationship(s)
+- Try different axes
+- Consider default formats
+- Use color for categories, not rank
+- Encode other data and relationships with appropriate properties • Iterate, iterate, iterate
 
 ## Visualization types
 
 ### nD/Multidimensional
-• pie chart
-• bar chart, radial bar chart
-• histogram
-• scatter plot
-• line chart
-• bubble chart
-• heat map
-• pair plots
-• Worlde, tag cloud
-• tree map
-• step chart
-• box plot and whisker plot
-• parallel coordinates / parallel assets
+- pie chart
+- bar chart, radial bar chart
+- histogram
+- scatter plot
+- line chart
+- bubble chart
+- heat map
+- pair plots
+- Worlde, tag cloud
+- tree map
+- step chart
+- box plot and whisker plot
+- parallel coordinates / parallel assets
 
 
